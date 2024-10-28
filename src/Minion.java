@@ -1,9 +1,5 @@
 public class Minion {
 
-    public enum Color{
-        RED, BLACK, WHITE
-    }
-
     private int elixirCost;
     private int healthPoints;
     private int attackDamage;
